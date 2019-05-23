@@ -1,0 +1,6 @@
+model_checkpoint_path: "/root/imagenet/checkpoints/run1-10100"
+all_model_checkpoint_paths: "/root/imagenet/checkpoints/run1-9696"
+all_model_checkpoint_paths: "/root/imagenet/checkpoints/run1-9797"
+all_model_checkpoint_paths: "/root/imagenet/checkpoints/run1-9898"
+all_model_checkpoint_paths: "/root/imagenet/checkpoints/run1-9999"
+all_model_checkpoint_paths: "/root/imagenet/checkpoints/run1-10100"
