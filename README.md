@@ -90,3 +90,6 @@ And here is the training and evaluation record screenshots in colab. The trainin
 
 The result is shown as follows:
 ![](https://github.com/brainleft/ML-project/blob/master/CNNs%20and%20Inception-ResNet-v2/image_in_readme/result.jpg)
+
+## Conclusion
+Due to the small number of traing data, our result is kind of far from colorization. Besides, we also test CPU tensorflow for this task, and it takes forever until the colab VM lose connection. We believe that CNN + pretrain checkpoints might not be a very good idea for image colorizaiton because of the large amount of samples it requires and the computation time. 
