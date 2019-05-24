@@ -83,8 +83,10 @@ Before training, ensure that the folder `~/imagenet/tfrecords/` contains:
 - training records as `lab_images_*.tfrecord`
 - validation records as `val_lab_images_*.tfrecord` 
 
+Note that you need to change the number of training data, size of batch,etc in *deep-koalarization/colorization/train.py* before the training
+
 And here is the training and evaluation record screenshots in colab. The training and valuation data were uploaded into it.
-![](https://github.com/brainleft/ML-project/blob/master/CNNs%20and%20Inception-ResNet-v2/image_in_readme/colab.png)
+![](https://github.com/brainleft/ML-project/blob/master/CNNs%20and%20Inception-ResNet-v2/image_in_readme/colab.JPG)
 
-
-
+The result is shown as follows:
+![](https://github.com/brainleft/ML-project/blob/master/CNNs%20and%20Inception-ResNet-v2/image_in_readme/result.jpg)
