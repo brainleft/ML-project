@@ -6,5 +6,7 @@ Image Colorization using CNNs and Inception-ResNet-v2; Reference: [baldassarreFe
 
 ## I. Image Colorization using CNNs and Inception-ResNet-v2
 ### 1. Mathematical Formulation
-
-
+![](https://github.com/brainleft/ML-project/blob/master/CNNs%20and%20Inception-ResNet-v2/image_in_readme/background.png)
+![](https://github.com/brainleft/ML-project/blob/master/CNNs%20and%20Inception-ResNet-v2/image_in_readme/model_architecture.png)
+![](https://github.com/brainleft/ML-project/blob/master/CNNs%20and%20Inception-ResNet-v2/image_in_readme/layer.png)
+![](https://github.com/brainleft/ML-project/blob/master/CNNs%20and%20Inception-ResNet-v2/image_in_readme/fusion.png)
